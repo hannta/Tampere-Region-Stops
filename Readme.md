@@ -6,8 +6,10 @@
 - Region code
 
 ### Region codes
-- 1 = Region 1
-- 2 = Region 2
-- S = Region S
+- **1** = Region 1
+- **2** = Region 2
+- **S** = Region S
  
 More: http://joukkoliikenne.tampere.fi/fi/matkustaminen/liput.html
+
+Data collected from different sources.
