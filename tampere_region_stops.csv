@@ -1,0 +1,2682 @@
+0001;Keskustori M;1
+0002;Keskustori L;1
+0003;Keskustori A;1
+0005;Keskustori P;1
+0007;Keskustori O;1
+0008;Keskustori N;1
+0010;Keskustori F;1
+0011;Keskustori G;1
+0012;Keskustori H;1
+0013;Keskustori K;1
+0014;Keskustori E;1
+0015;Keskustori D;1
+0016;Tuulensuu A;1
+0017;Tuulensuu F;1
+0018;Tuulensuu B;1
+0019;Tuulensuu E;1
+0020;Tuulensuu C;1
+0021;Tuulensuu D;1
+0022;Metso;1
+0024;Metso;1
+0025;Aleksanterin kirkko;1
+0028;Pyynikintori;1
+0029;Pyynikintori;1
+0031;Pyynikintori;1
+0033;Kuninkaankatu;1
+0034;Keskustori;1
+0035;Keskustori C;1
+0036;Keskustori B;1
+0038;Finlayson;1
+0040;Keskustori J;1
+0041;Keskustori R;1
+0042;Keskustori I;1
+0043;Laukontori;1
+0044;Laukontori;1
+0045;Nalkalantori;1
+0046;Satamakatu 8;1
+0047;Pyynikin koulu;1
+0048;Satamakatu 16;1
+0049;Satamakatu;1
+0050;Hämeenpuisto 45;1
+0051;Eteläpuisto;1
+0052;Pikkupalatsi;1
+0053;Hämeenpuisto 14;1
+0054;Näsinkallio;1
+0055;Näsinkallio;1
+0056;Särkänniemi;1
+0057;Särkänniemi;1
+0058;Mustanlahdenkatu;1
+0059;Mustanlahdenkatu;1
+0060;Sotkankatu;1
+0061;Sotkankatu;1
+0063;Särkänniemi;1
+0064;Mariankatu;1
+0065;Mariankatu;1
+0066;Hämeenpuisto 17;1
+0068;Näsilinnankatu;1
+0069;Kauppakatu;1
+0070;Aleksis Kiven katu;1
+0072;Satakunnankatu 23;1
+0074;Amuri;1
+0075;Amuri;1
+0076;Pyynikin uimahalli;1
+0077;Pyynikin uimahalli;1
+0079;Hämeenpuisto 26;1
+0080;Hämeenpuisto 31;1
+0083;Hämeenpuisto 10;1
+0087;Finlayson;1
+0092;Nalkalantori;1
+0098;Savilinna;1
+0099;Savilinna;1
+0106;Tammer;1
+0108;Rongankatu 6;1
+0500;Koskipuisto C;1
+0501;Koskipuisto A;1
+0502;Koskipuisto D;1
+0503;Koskipuisto B;1
+0504;Rautatieasema I;1
+0505;Rautatieasema H;1
+0506;Rautatieasema;1
+0508;Rautatieasema J;1
+0509;Itsenäisyydenkatu 3;1
+0510;Itsenäisyydenkatu 10;1
+0511;Itsenäisyydenkatu 13;1
+0513;Itsenäisyydenkatu 25;1
+0514;Koskipuisto G;1
+0516;Itsenäisyydenkatu 16;1
+0517;Koskipuisto H;1
+0518;Koskipuisto E;1
+0519;Koskipuisto I;1
+0520;Koskipuisto F;1
+0521;Linja-autoasema;1
+0522;Linja-autoasema;1
+0523;Linja-autoasema;1
+0524;Tampereen valtatie;1
+0525;Viinikan liittymä;1
+0526;Rautatieasema;1
+0528;Klassillinen koulu;1
+0529;Klassillinen koulu;1
+0530;Tuomiokirkko;1
+0531;Tuomiokirkko;1
+0532;Armonkallio;1
+0533;Armonkallio;1
+0534;Kastinsilta;1
+0535;Kastinsilta;1
+0536;Paloasema;1
+0537;Paloasema;1
+0540;Tammelankatu;1
+0541;Tammelantori;1
+0542;Tammelantori;1
+0543;Parantolankatu;1
+0544;Parantolankatu;1
+0545;Tapionkatu;1
+0546;Tapionkatu;1
+0548;Pohjolankatu ;1
+0549;Koiratori;1
+0550;Koiratori;1
+0551;Ratina;1
+0552;Viola-koti;1
+0555;Tammelan koulu;1
+0556;Tammelan koulu;1
+0557;Kalevan puistotie 6;1
+0558;Pohjolankatu 33;1
+0559;Pohjolankatu ;1
+0560;Yliopistonkatu;1
+0561;Tampere-talo;1
+0562;Tampere-talo;1
+0563;Yliopisto;1
+0564;Yliopisto;1
+0565;Yliopisto;1
+0566;Yliopisto;1
+0567;Sorsapuisto;1
+0568;Sorsapuisto;1
+0569;Sorinaukio;1
+0571;Viinikankatu 1;1
+0572;Viinikankatu 2;1
+0573;Rautatieasema;1
+0575;Rautatieasema G;1
+0577;Klassillinen koulu;1
+0578;Puu-Tammela;1
+0579;Puu-Tammela;1
+0581;Viinikankatu;1
+0582;Viinikankatu;1
+0583;Tammelan puistokatu 34;1
+0585;Lapinkaari;1
+0590;Lapintie 14;1
+0593;Sampola;1
+0594;Lapinniemen kylpylä;1
+0595;Lapintie 7;1
+0596;Kelloportinkatu;1
+0598;Sampola;1
+0600;Lapintie 2;1
+0601;Tietotalo;1
+0700;Villa Viola;1
+0701;Tampellan Esplanadi;1
+0702;Rohdinkuja;1
+0703;Soukanlahdenkatu;1
+0704;Osmonmäki;1
+0705;Naistenlahti;1
+1000;Onkiniemi;1
+1001;Onkiniemi;1
+1002;Santalahti;1
+1003;Santalahti;1
+1006;Rantatie;1
+1007;Rantatie;1
+1009;Venesatama;1
+1010;Lielahden asema;1
+1011;Lielahden asema;1
+1012;Epilänharju;1
+1013;Epilänharju;1
+1014;Harjuntausta;1
+1015;Harjuntausta;1
+1016;Lielahden koulu;1
+1017;Lielahden koulu;1
+1018;Harjuntaustan koulu;1
+1019;Harjuntaustan koulu;1
+1020;Pohtolankatu;1
+1021;Harjuntausta 11;1
+1022;Isoniemenkatu;1
+1023;Isoniemenkatu;1
+1024;Männistönkuja;1
+1025;Männistönkuja;1
+1026;Jänislampi;1
+1027;Jänislampi;1
+1028;Lentävänniemi;1
+1029;Pohtolankatu 25;1
+1030;Pohtolankatu 22;1
+1031;Pohtolankatu 41;1
+1032;Pohtolankatu 32;1
+1033;Isoniemenkatu;1
+1034;Vähäniemenkatu 28;1
+1035;Federleynkatu;1
+1036;Federleynkatu;1
+1037;Parrukatu;1
+1038;Isoniemenkatu;1
+1039;Listakatu;1
+1040;Listakatu;1
+1041;Papusenkatu;1
+1042;Papusenkatu;1
+1043;Pohtola;1
+1044;Possilanraitti;1
+1045;Välisalonkuja;1
+1046;Ihaistenkatu;1
+1047;Laatokantie;1
+1048;Viirakatu;1
+1049;Viirakatu;1
+1050;Teivaalantie;1
+1051;Teivaalantie 31;1
+1052;Possilankatu 2-4;1
+1053;Teivaalantie 7;1
+1054;Kukkolankatu;1
+1055;Kukkolankatu;1
+1056;Viholankuja;1
+1057;Viholankatu;1
+1058;Ritalankatu;1
+1059;Ritalankatu;1
+1060;Possilankatu 18;1
+1061;Possilankatu 15;1
+1062;Itämäenkatu;1
+1063;Possilanraitti;1
+1064;Lintulamminkatu 4;1
+1065;Possilankatu 25;1
+1066;Enqvistinkatu;1
+1067;Enqvistinkatu;1
+1068;Sellukatu;1
+1069;Harjuntausta 7;1
+1070;Enqvistinkatu (poistettu);1
+1071;Ryydynpohja;1
+1072;Harjuntausta 4;1
+1073;Välisalonkuja;1
+1074;Ryydynkatu 2;1
+1075;Harjunsivu;1
+1077;Lielahti;1
+1100;Reuharinniemi;1
+1101;Airokatu;1
+1102;Airokatu;1
+1200;Nuoralahti;1
+1201;Nuoralahti;1
+1202;Leppästentie;1
+1203;Leppästentie;1
+1204;Vasamantie;1
+1205;Vasamantie;1
+1206;Lamminsyrjäntie;1
+1207;Lamminsyrjäntie;1
+1208;Siivikkalan koulu;1
+1209;Siivikkalan koulu;1
+1210;Siivikkala;1
+1211;Siivikkala;1
+1212;Siivikkala th;1
+1214;Myllyhaantie;1
+1215;Myllyhaantie;1
+1218;Siivikkala th;1
+1220;Pekkolantie;1
+1221;Pekkolantie;1
+1223;Mettistö th;1
+1409;Lielahden koulu;1
+1414;Soirokatu;1
+1415;Soirokatu (poistettu);1
+1416;Lentävänniemen koulu;1
+1417;Lentävänniemen koulu;1
+1450;Prisma Lielahti;1
+1451;Prisma Lielahti;1
+1500;Ammattikoulu;1
+1501;Ammattikoulu;1
+1502;Tipotie;1
+1503;Pirkankatu 37;1
+1504;Rajaportti;1
+1505;Rajaportti;1
+1506;Pulteri;1
+1507;Pulteri;1
+1508;Ahjola;1
+1509;Ahjola;1
+1510;Pispalantori;1
+1511;Pispalantori;1
+1512;Hyhkynkatu;1
+1513;Hyhkynkatu;1
+1514;Haapalinna;1
+1515;Haapalinna;1
+1516;Rannila (poistettu);1
+1517;Rannila (poistettu);1
+1518;Epilä;1
+1519;Epilä;1
+1520;Pispalan vt 138;1
+1521;Pispalan vt 141;1
+1522;Winterin alue;1
+1523;Winterin alue;1
+1524;Kaarila;1
+1525;Puistokaarila;1
+1526;Nokiantie 36;1
+1527;Nokiantie;1
+1528;Tesoman vt 26;1
+1529;Risuharjunkatu;1
+1530;Kokkolankatu;1
+1531;Kokkolankatu;1
+1532;Länsitori;1
+1533;Länsitori;1
+1534;Tesomajärvenkatu;1
+1535;Tesomajärvenkatu;1
+1536;Tesomankatu;1
+1537;Tesomankatu 27;1
+1539;Tesomankatu 31;1
+1540;Virontörmänkatu 2;1
+1541;Virontörmänkatu 1;1
+1542;Tesoma;1
+1543;Savilinnantie ;1
+1544;Savilinnantie ;1
+1545;Mattilankatu;1
+1546;Peurankatu;1
+1547;Pispan palvelukeskus;1
+1548;Pispan palvelukeskus;1
+1549;Simolankatu 7;1
+1550;Simolankatu 18;1
+1551;Simolankatu 27;1
+1552;Simolankatu 32;1
+1553;Ojustenkatu;1
+1554;Simolankatu 54;1
+1555;Siirtolapuutarha;1
+1556;Siirtolapuutarha;1
+1557;Vaakkolampi;1
+1558;Vaakkolampi;1
+1559;Puistokaarila (poistettu);1
+1560;Puistokaarila (poistettu);1
+1561;Piikahaka;1
+1562;Piikahaka;1
+1563;Jurvalankatu;1
+1564;Metsäkylänkatu;1
+1565;Pukkisaarenkatu;1
+1566;Vanha Kirkkotie;1
+1567;Vanha Kirkkotie 7;1
+1568;Korvenkatu 34;1
+1569;Rahola;1
+1570;Korvenkatu 44;1
+1572;Korvenkatu 57;1
+1573;Vanha kirkkotie 21;1
+1574;Vanha Kirkkotie 10;1
+1575;Teerivuorenkatu;1
+1576;Vanha kirkkotie 24;1
+1578;Teerivuorenkatu 10;1
+1579;Kokkolankatu 2;1
+1580;Ristaniitynkatu;1
+1582;Ristaniitynkatu 13;1
+1583;Ristaniitynkatu 10;1
+1584;Pitkäniemenkatu;1
+1585;Pitkäniemenkatu;1
+1586;Kalkun viertotie 17;1
+1587;Kalkun viertotie;1
+1588;Kalkun viertotie 20;1
+1589;Petsankatu;1
+1590;Petsanpuisto;1
+1591;Petsanpuisto;1
+1592;Kalkku;1
+1593;Tohlopinranta;1
+1594;Tohlopinranta 23;1
+1595;Tohlopinjärvi;1
+1596;Tohlopinjärvi;1
+1597;Yleisradio;1
+1598;Yleisradio;1
+1599;Kohmankatu;1
+1600;Kohmankatu;1
+1601;Virontörmänkatu 13;1
+1602;Tesomankatu 24;1
+1603;Kylväjäntie;1
+1604;Kylväjäntie;1
+1605;Ikurintie;1
+1606;Ikurintie;1
+1607;Kalkun kehätie;1
+1608;Kalkun kehätie;1
+1610;Terveysasema;1
+1611;Länsitori;1
+1612;Tesoman koulu;1
+1613;Sitarinkatu;1
+1614;Sitarinkatu;1
+1615;Tarhamäenkatu;1
+1616;Tarhamäenkatu;1
+1617;Pyydyspohjankatu;1
+1618;Pyydyspohjankatu;1
+1619;Suoniemenkatu;1
+1620;Suoniemenkatu;1
+1621;Myllypuronkatu;1
+1622;Myllypuronkatu;1
+1623;Lintuviidankatu;1
+1624;Lintuviidankatu;1
+1625;Heinämiehentie;1
+1626;Heinämiehentie;1
+1627;Maamiehentie;1
+1628;Maamiehentie;1
+1629;Ikurintie 88;1
+1630;Haukiluomantie 43;1
+1631;Ikurinaukio;1
+1632;Tuohikorventie 65;1
+1633;Äestäjäntie;1
+1634;Tuohikorventie 49;1
+1635;Ikuri;1
+1636;Tuohikorventie 35;1
+1637;Ikuri;1
+1638;Tuohikorventie;1
+1639;Tapola;1
+1640;Possijärvenkatu 1;1
+1641;Rientola;1
+1642;Turvesuonkatu 11;1
+1643;Turvesuonkatu 10;1
+1644;Tuomarinkatu;1
+1645;Käräjätörmä;1
+1646;Tesoman valtatie;1
+1647;Heinämiehentie 6;1
+1648;Epilänkatu 13;1
+1649;Epilänkatu 8;1
+1650;Mustikkaniemi;1
+1651;Mustikkaniemi;1
+1652;Epilänkatu 65;1
+1653;Epilänkatu;1
+1654;Suonsivunkatu;1
+1655;Pikkulampi;1
+1656;Ylöjärventie 22;1
+1657;Ylöjärventie;1
+1658;Ravirata;1
+1659;Ravirata;1
+1660;Vuorentaustantie 10;1
+1661;Vuorentaustantie 7;1
+1662;Rauhantie;1
+1663;Rauhantie;1
+1664;Lamminpään koulu;1
+1665;Lamminpään koulu;1
+1666;Runkokatu;1
+1667;Runkokatu;1
+1668;Haukiluoma;1
+1670;Haukiluomantie 17;1
+1671;Peurankatu;1
+1672;Lamminpään hautausmaa;1
+1673;Lamminpään hautausmaa;1
+1674;Virontörmänkatu 8;1
+1675;Pohjanmaantie;1
+1677;Ristaniitynkatu;1
+1678;Myllyojanpuisto;1
+1680;Vuorentaustantie 28;1
+1683;Myllyojanpuisto;1
+1685;Vuorentaustantie 15;1
+1689;Kyntäjäntie;1
+1691;Karjakontie 6;1
+1693;Kauppamiehenkatu;1
+1694;Kauppamiehenkatu;1
+1695;Ikurintie 47;1
+1697;Ikurintie 25;1
+1698;Runkokatu;1
+1700;Ikurintie;1
+1701;Kohmankaari 3;1
+1702;Heinämiehentie;1
+1703;Heinämiehentie;1
+1704;Ikurintie 61;1
+1706;Tyvikatu ;1
+1708;Tyvikatu;1
+1710;Ikurintie 57;1
+1712;Kohmankaari 2;1
+1720;Korvenkatu 32;1
+1730;Leirikatu;1
+1731;Leirikatu;1
+1732;Juoksuhaudankatu;1
+1733;Juoksuhaudankatu;1
+1734;Kalkunvuorenkatu 3;1
+1735;Kalkunvuorenkatu 4;1
+1740;Haukihaaranraitti;1
+1741;Haukihaaranraitti;1
+1759;Vanha kirkkotie;1
+1760;Hutikonpolku;1
+1761;Villilä;1
+1762;Villilä;1
+1763;Likolampi;1
+1764;Likolampi;1
+1765;Saarenkärki;1
+1766;Saarenkärki;1
+1767;Salmenranta;1
+1768;Salmenranta;1
+1769;Mustalampi;1
+1770;Mustalampi;1
+1771;Mustavuori;1
+1772;Mustavuori;1
+1800;Ikuri;1
+1801;Kalkun kehätie;1
+1802;Kalkun kehätie;1
+1803;Kolmihaarankatu 5;1
+1804;Kolmihaarankatu 4;1
+1805;Kolmihaarankatu 7;1
+1806;Kolmihaarankatu 6;1
+1807;Pihtisulunkatu 1;1
+1808;Pihtisulunkatu;1
+1809;Sandvik;1
+1820;Lannemäki;1
+1821;Lannemäki;1
+1822;Ylöjärventie;1
+1823;Ylöjärventie;1
+1900;Kaarila;1
+2000;Mäntypuisto;1
+2001;Mäntypuisto;1
+2002;Piispantalo;1
+2003;Piispantalo;1
+2004;Pyynikintie;1
+2005;Pyynikintie;1
+2006;Rosendahl;1
+2007;Rosendahl;1
+2008;Trikookuja;1
+2009;Trikookuja;1
+2011;Varala;1
+2012;Varala;1
+2013;Tahmelankatu;1
+2014;Tahmelankatu 6;1
+2015;Hirvikatu;1
+2016;Hirvikatu;1
+2017;Tahmela;1
+2018;Mäntypuisto;1
+2019;Mäntypuisto;1
+2020;Palomäentie 14;1
+2021;Palomäentie 15;1
+2022;Palomäentie 32;1
+2023;Palomäentie 31;1
+2024;Tahmelan viertotie;1
+2025;Pyynikinharju;1
+2026;Pyynikinharju;1
+2027;Pispalanharju 1;1
+2028;Pispalanharju 2;1
+2029;Pispalanharju 19;1
+2030;Pispalanharju 18;1
+2031;Pispalanharju ;1
+2033;Tahmelan viertotie;1
+2101;Mäntyveräjä;2
+2500;Verotalo;1
+2501;Hatanpään vt 24;1
+2502;Hatanpään vt 25;1
+2503;Viinikanlahti;1
+2505;Verotalo;1
+2506;Hatanpään vt 31;1
+2507;Hatanpään vt 42;1
+2508;Vihilahti;1
+2509;Vihilahti;1
+2510;Hatanpään koulu;1
+2511;Hatanpään koulu;1
+2512;Rantaperkiö;1
+2513;Rantaperkiö;1
+2514;Kannistonkatu;1
+2515;Kannistonkatu;1
+2516;Talvitie;1
+2517;Talvitie;1
+2518;Leirintäkatu ;1
+2519;Leirintäkatu;1
+2520;Härmälän koulu;1
+2521;Härmälän koulu;1
+2522;Tarmonkatu;1
+2523;Tarmonkatu;1
+2524;Valmetinkatu;1
+2525;Sarvis;1
+2526;Sarvis;1
+2527;Hatanpään sairaala;1
+2528;Hatanpään hovi;1
+2529;Hatanpään hovi;1
+2530;Rantaperkiö;1
+2531;Rantaperkiö;1
+2532;Kojolankatu;1
+2533;Lentokentänkatu 7;1
+2534;Lentokentänkatu ;1
+2535;Lentokentänkatu 9;1
+2536;Härmälän kirkko;1
+2537;Lentokentänkatu 11;1
+2538;Metsolankatu 32;1
+2539;Metsolankatu;1
+2540;Sarankulmankatu 20;1
+2541;Sarankulmankatu;1
+2542;Patamäenkatu 2;1
+2544;Patamäenkatu 12;1
+2545;Patamäenkatu 9;1
+2546;Nuutisarankatu 4;1
+2547;Patamäenkatu;1
+2548;Keskuojankatu;1
+2549;Keskuojanpolku;1
+2550;Pöytäsarankatu;1
+2551;Pöytäsarankatu;1
+2552;Nuutisarankatu 22;1
+2553;Nuutisarankatu 35;1
+2554;Pirkkahalli;1
+2555;Patamäenkatu 5;1
+2556;Hatanpään sairaala;1
+2557;Toivionkatu;1
+2558;Valmetinkatu;1
+2560;Pirkkahalli;1
+2561;Ruotutie 8;1
+2562;Ilmailunkatu;1
+2563;Palmrothintie;1
+2564;Keskuojanpolku;1
+2565;Ojatie;1
+2566;Ojatie;1
+2567;Karhumäentie;1
+2568;Ruotutie 3;1
+2569;Hatanpään puistokuja;1
+2570;Toivionkatu;1
+2571;Sarankulmankatu 25;1
+2572;Toivionkatu 3;1
+2573;Keskuojanpolku;1
+2574;Karhumäentie;1
+2575;Saapastie;1
+2576;Hatanpään sairaala;1
+2577;Rukkamäentie 15;1
+2578;Rukkamäentie 15;1
+2579;Peltolammin koulu;1
+2580;Peltolammin koulu;1
+2582;Kenkätie 2;1
+2583;Ilmailunkatu;1
+2584;Kenkätie 6;1
+2585;Metsolankatu;1
+2586;Rukkamäki;1
+2587;Sarankulmankatu 14;1
+2588;Sarankulmankatu 14;1
+2590;Kenkätie;1
+2591;Kenkätie;1
+2592;Saapastie;1
+2593;Saapastie;1
+2594;Ilmailunkatu;1
+2595;Kenkätie;1
+2596;Metsolankatu;1
+2597;Partola;1
+2598;Hatanpään koulu;1
+2599;Hatanpään sairaala;1
+2603;Pereentie;1
+2604;Pereentie;1
+2605;Kutteritie;1
+2606;Kutteritie;1
+2607;Partolanhovi;1
+2608;Partolanhovi;1
+2610;Loukonlahdentie;1
+2611;Loukonlahdentie;1
+2621;Toiviontie;1
+2623;Toivionkatu 3;1
+2624;Korpitie;1
+2625;Korpitie;1
+2626;Patamäenkatu 16;1
+2627;Patamäenkatu 11;1
+2630;Sarankulma;1
+3000;Viinikan liittymä;1
+3001;Kaartotie;1
+3002;Kuokkamaantie;1
+3003;Kuokkamaantie;1
+3004;Koivistontie;1
+3005;Koivistontie;1
+3006;Ekankulma;1
+3007;Ekankulma;1
+3008;Veturihallit;1
+3009;Veturihallit;1
+3010;Säästäjänkatu;1
+3011;Säästäjänkatu;1
+3012;Tilkonmäenkatu;1
+3013;Automiehenkatu;1
+3014;Pähkinämäenkatu;1
+3015;Pähkinämäenkatu;1
+3016;Valkama;1
+3017;Valkama;1
+3018;Kitinrinne;1
+3019;Kitinrinne;1
+3020;Multisillankatu;1
+3021;Multisillankatu;1
+3022;Multisilta;1
+3024;Ahlmanintie;1
+3025;Viinikan kirkko;1
+3026;Viinikan kirkko;1
+3027;Viinikan puisto;1
+3028;Nekalan koulu;1
+3029;Nekalan koulu;1
+3030;Kuokkamaantie 17;1
+3031;Kuokkamaantie 6;1
+3032;Viinikankatu 40;1
+3033;Viinikankatu 49;1
+3034;Viinikankatu 42;1
+3035;Viinikankatu 57;1
+3036;Ammattikoulu;1
+3037;Ammattikoulu;1
+3038;Huikarinkatu;1
+3039;Koivistontie 35;1
+3040;Mahlankatu;1
+3041;Mahlankatu;1
+3042;Valkama;1
+3043;Valkama;1
+3044;Nirvankatu 18;1
+3045;Nirvankatu;1
+3046;Haukisenkatu;1
+3047;Haukisenkatu;1
+3048;Isännänkatu;1
+3049;Isännänkatu;1
+3050;Veisu;1
+3052;Multiojankatu;1
+3053;Vuoreksenkatu;1
+3054;Emännänkatu;1
+3055;Emännänkatu;1
+3056;Vuoreksenkatu;1
+3058;Postikeskus;1
+3060;Korkinmäki;1
+3061;Lokintaival;1
+3062;Nekalantie 8;1
+3063;Nekalantie 29;1
+3064;Nekalantie 38;1
+3065;Nekalantie 55;1
+3066;Nekalantie 54;1
+3067;Riihitie;1
+3068;Jokipohjantie 18;1
+3069;Jokipohjantie 23;1
+3070;Liikennelaitos;1
+3071;Liikennelaitos;1
+3072;Jokipohjantie 26;1
+3073;Jokipohjantie 53;1
+3074;Muotialantie 38;1
+3075;Muotialantie 23;1
+3076;Siirtolapuutarha;1
+3077;Siirtolapuutarha;1
+3078;Muotialantie ;1
+3079;Muotialantie 43;1
+3080;Nekalantie 110;1
+3081;Seurakuntatalo;1
+3082;Seurakuntatalo;1
+3083;Kuoppamäentie 29;1
+3084;Kuoppamäentie 34;1
+3085;Siirtolapuutarha;1
+3086;Kuoppamäentie 44;1
+3088;Uotilantie;1
+3090;Koivistontie;1
+3091;Ammattikoulu;1
+3092;Ammattikoulu;1
+3093;Santamatinkatu;1
+3094;Santamatinkatu;1
+3095;Ahlman;1
+3096;Ahlman;1
+3097;Steiner-koulu;1
+3098;Steiner-koulu;1
+3099;Ahlmanintie;1
+3100;Kuokkamaantie 14;1
+3102;Koivistonkeskus;1
+3103;Koivistonkeskus;1
+3104;Nirvankallionkatu;1
+3105;Nirvankallionkatu;1
+3106;Nirvankatu 52;1
+3107;Nirvansuonkatu;1
+3108;Tuotekatu 4;1
+3109;Veturikatu;1
+3110;Veturikatu;1
+3111;Postitorvenkatu;1
+3112;Leppästensuonkatu;1
+3113;Tampereen portti;1
+3115;Lempääläntie 31;1
+3116;Lempääläntie;1
+3117;Pullerikinahde;1
+3118;Uotilantie;1
+3120;Sotilaankatu ;1
+3121;Loukkaankatu;1
+3122;Hallilantie ;1
+3123;Hallilantie;1
+3124;Loukkaankatu;1
+3125;Kuusikonkatu;1
+3126;Kiulukatu;1
+3127;Lehtimetsänkatu;1
+3128;Pehkusuonkatu;1
+3129;Pehkusuonkatu;1
+3130;Lehtimetsänkatu;1
+3131;Kiulukatu;1
+3132;Kuusikonkatu;1
+3133;Perkkoonkatu;1
+3134;Hallila;1
+3136;Hallilan koulu;1
+3138;Havumetsänkatu;1
+3141;Havumetsänkatu;1
+3142;Korkinmäenkatu;1
+3143;Hallilan koulu;1
+3144;Kyläkeinunkatu;1
+3145;Kyläkeinunkatu;1
+3147;Korkinmäenkatu ;1
+3158;TAKK;1
+3159;Tuotekatu;1
+3160;Särkijärvenkatu;1
+3161;Särkijärvenkatu;1
+3162;Tampereen Portti;1
+3163;TAKK;1
+3164;Postitorvenkatu;1
+3165;Perkiö;1
+3166;Lahdesjärvi;1
+3167;IKEA;1
+3168;Postitorvenkatu;1
+3169;Postitorvenkatu;1
+3170;Automiehenkatu 2;1
+3172;Lahdenperänkatu;1
+3173;Lahdenperänkatu;1
+3200;Muotialantie 64;1
+3201;Muotialantie 67;1
+3500;Viinikan liittymä;1
+3502;Iidesranta;1
+3503;Iidesranta;1
+3504;Kuikankatu;1
+3505;Kuikankatu;1
+3507;Tiirantaival;1
+3508;Tiirantaival;1
+3509;Järvensivun koulu;1
+3510;Järvensivun koulu;1
+3511;Vuohenoja;1
+3512;Vuohenoja;1
+3513;Turtola;1
+3514;Turtola;1
+3515;Lukonmäki pohj.;1
+3516;Lukonmäki pohj.;1
+3517;Lukonmäki et.;1
+3518;Lukonmäki et.;1
+3519;Tieteenkatu;1
+3520;Insinöörinkatu;1
+3521;Valtaväylän silta;1
+3522;Hervantakeskus;1
+3523;Hervantakeskus;1
+3524;Ahvenisjärvi ;1
+3525;Ahvenisjärvi;1
+3526;Sähkökatu;1
+3527;Valtaraitti;1
+3528;Ahvenisraitti;1
+3529;Ahvenisraitti;1
+3530;Teekkarinkatu;1
+3531;Teekkarinkatu;1
+3532;Pinni;1
+3533;Järvensivuntie 3;1
+3534;Järvensivuntie;1
+3535;Järvensivuntie 15;1
+3536;Kiurunpolku;1
+3537;Kiurunpolku;1
+3538;Peippospolku;1
+3539;Peippospolku;1
+3540;Kertunpolku;1
+3541;Kertunpolku;1
+3542;Pääskynpolku;1
+3543;Pääskynpolku;1
+3544;Tikantie;1
+3545;Järvensivu;1
+3546;Ratapihankatu;1
+3547;Ratapihankatu;1
+3548;Nuijatie;1
+3549;Nuijatie;1
+3551;Vasaratie 13;1
+3552;Vasaratie 12;1
+3553;Vasaratie 25;1
+3554;Vasaratie 22;1
+3555;Vasaratie 31;1
+3556;Kirvestie;1
+3557;Iidesaukio;1
+3560;Kierikankatu;1
+3562;Sotilaankatu;1
+3563;Turtola;1
+3564;Finninmäki;1
+3565;Finninmäki;1
+3566;Lukonmäki;1
+3567;Lukonmäki;1
+3568;Ammattikoulu;1
+3569;Ammattikoulu;1
+3570;Tieteenkatu;1
+3572;Valtaväylän silta;1
+3574;Valtaraitti;1
+3575;Valtaraitti;1
+3576;Opiskelijankatu 26;1
+3577;Opiskelijankatu 23;1
+3578;Hervannan lukio;1
+3579;Hervannan lukio;1
+3580;Ammattikoulu;1
+3581;Ammattikoulu;1
+3583;Santaharjuntie;1
+3584;Santaharjuntie;1
+3585;Lukonmäenkatu;1
+3587;Kierikankatu;1
+3588;Lukonmäenkatu;1
+3589;Steiner-koulu;1
+3590;Steiner-koulu;1
+3598;Länsi-Hervanta;1
+3599;Suolijärvi;1
+3600;Suolijärvi;1
+3601;Arkkitehdinkatu 36;1
+3602;Arkkitehdinkatu 17;1
+3603;Arkkitehdinkatu 14;1
+3604;Arkkitehdinkatu 9;1
+3605;Arkkitehdinkatu 4;1
+3606;Arkkitehdinkatu 3;1
+3607;Lavastajanpolku;1
+3608;Sonninottanlahti;1
+3609;Ahvenisjärventie 49;1
+3610;Insinöörinkatu 60;1
+3611;Insinöörinkatu 41;1
+3612;Insinöörinkatu 82;1
+3613;Insinöörinkatu 55;1
+3614;Länsi-Hervanta;1
+3615;Etelä-Hervanta;1
+3616;Näyttämönkatu;1
+3618;Lavastajanpolku;1
+3620;Kanjoninkatu 4;1
+3622;Hervannan jäähalli;1
+3624;Muroleenkatu;1
+3625;Hervannan jäähalli;1
+3627;Kanjoninkatu 5;1
+3629;Muroleenkatu;1
+3631;Mäyränmäki;1
+3632;Mäyränmäki;1
+3633;Hermia;1
+3635;Vuoreksen koulu;1
+3636;Vuoreksen koulu;1
+3637;Näyttämönkatu;1
+3638;Vuoreskeskus;1
+3639;Vuoreskeskus;1
+3640;Rimmi;1
+3641;Rimmi;1
+3642;Hervantakeskus;1
+3643;Virolainen;1
+3644;Virolainen;1
+3645;Asuntomessut;1
+3646;Eero Roineen katu;1
+3647;Västinginmäki;1
+3648;Västinginmäki;1
+3649;Tuotekatu;1
+3650;Korkinmäenkatu;1
+3651;Korkinmäenkatu;1
+3652;Laulunmaankatu;1
+3653;Laulunmaankatu;1
+3699;Hervantakeskus;1
+3700;Insinöörinkatu 52;1
+3701;Hermiankatu ;1
+3702;Hermiankatu 8;1
+3703;Hermiankatu 3;1
+3704;Hermiankatu 20;1
+3705;Kauhakorvenkatu;1
+3706;Kauhakorvenkatu;1
+3707;Kytömaankatu;1
+3708;Kytömaankatu;1
+3709;Työpajanraitti;1
+3710;Työpajanraitti;1
+3711;Hepolamminkatu;1
+3712;Hepolamminkatu;1
+3713;Itä-Hervanta;1
+3714;Hermiankatu 22;1
+3715;Hermiankatu 7;1
+3716;Ahvenisraitti;1
+3717;Ahvenisraitti;1
+3718;Kanjoninkatu;1
+3719;Lindforsinkatu;1
+3721;Kanjoninkatu;1
+3723;Orivedenkatu;1
+3727;Kauhakorvenkatu 5;1
+3728;Hervannan valtaväylä;1
+3729;Shell Hervanta;1
+3730;Vaajakatu;1
+3731;Vaajakatu;1
+3732;Kylmäsuonkatu;1
+3733;Hervannan valtaväylä;1
+3734;TTY;1
+3735;TTY;1
+3736;Tieteenkatu 8;1
+3737;Tieteenkatu 7;1
+3760;Kotkansiipi;1
+3761;Kotkansiipi;1
+3762;Siltanen;1
+3763;Siltanen;1
+3901;Kuokkamaantie 2;1
+3908;Niittyhaankatu;1
+3923;Solkimäki;1
+3924;Solkimäki;1
+3925;Polunmäenkatu;1
+3926;Polunmäenkatu;1
+3935;Niittyhaankatu;1
+3937;Kauhakorvenkatu 2;1
+3940;Rusko;1
+3941;Rusko;1
+3942;Palvaanniemi;1
+3943;Palvaanniemi;1
+3944;Kissanmaa;1
+3949;TAMK;1
+3950;Laulunmaa;1
+3951;Laulunmaa;1
+3999;Puhhoonlahti;1
+4000;Tarkonpuisto;1
+4001;Tarkonpuisto;1
+4002;Kalevankangas;1
+4003;Takojankatu;1
+4004;Takojankatu;1
+4005;Kalevantie;1
+4006;Kalevantie;1
+4007;Tilhentie;1
+4008;Tilhentie;1
+4010;Vuohensilta;1
+4011;Vuohensilta;1
+4012;Messukylänkatu;1
+4013;Messukylänkatu;1
+4014;Aakkula;1
+4015;Aakkula;1
+4016;Kivikirkko;1
+4017;Kivikirkko;1
+4018;Messukylän kirkko;1
+4019;Messukylän kirkko;1
+4020;Etu-Hankkionkatu;1
+4021;Etu-Hankkionkatu;1
+4022;Vilunen;1
+4023;Vilunen;1
+4024;Juvankatu 4;1
+4025;Kirsikatu;1
+4027;Keskisenkatu;1
+4028;Keskisenkatu;1
+4030;Juvankatu 18;1
+4031;Juvankatu 13;1
+4032;Yrjöläntie;1
+4033;Yrjöläntie;1
+4034;Yrjöläntie;1
+4035;Vanha-Juva;1
+4036;Juvanrinne;1
+4039;Alasenkatu;1
+4040;Ojavainionkatu 4;1
+4041;Ojavainionkatu 5;1
+4042;Hikivuorenkatu 22;1
+4043;Hikivuorenkatu;1
+4044;Hikivuorenkatu 14;1
+4045;Annala;1
+4046;Hankkio;1
+4047;Hankkio;1
+4048;Haiharansuu;1
+4049;Yrittäjänkatu;1
+4050;Juvelankatu 19;1
+4051;Seimenkatu;1
+4052;Kristilla;1
+4053;Kristilla;1
+4054;Vehmaistenkatu 4;1
+4055;Vehmaistenkatu;1
+4056;Inolankatu;1
+4057;Vehmaistenkatu 7;1
+4058;Kangasalantie 120;1
+4059;Kauppilaisenkatu;1
+4060;Hinkankatu;1
+4061;Kaukajärventie;1
+4062;Aukionkatu 2;1
+4063;Vaunukatu 3;1
+4064;Nevakatu;1
+4065;Juvelankatu;1
+4066;Vehmainen;1
+4067;Vehmainen;1
+4068;Kaukajärvi;1
+4072;Keskisenkatu 6;1
+4073;Keskisenkatu 13;1
+4074;Keskisenkatu 22;1
+4076;Haiharankatu;1
+4077;Haiharankatu;1
+4078;Kaukajärvi;1
+4079;Keskisenkatu;1
+4080;Kyläojankatu;1
+4081;Kyläojankatu;1
+4082;Pitkäniitynkatu;1
+4083;Solkiniitynkatu;1
+4084;Levonmäki;1
+4085;Levonmäki;1
+4086;Solkiniitynkatu;1
+4087;Pitkäniitty;1
+4088;Vaunukatu;1
+4089;Juvankatu;1
+4091;Vaunukatu;1
+4092;Annalankatu 7;1
+4093;Annalankatu 2;1
+4094;Annalankatu 1;1
+4095;Juvankatu;1
+4096;Hikivuori;1
+4097;Juvankatu 39;1
+4099;Maustekatu;1
+4100;Kauppilaisenkatu 20;1
+4102;Kaukajärventie;1
+4104;Levonmäki;1
+4106;Juvankatu 46;1
+4108;Juvankatu 52;1
+4111;Pysäkkikatu;1
+4112;Vehmaistenkatu;1
+4113;Nevakatu;1
+4115;Aukionkatu;1
+4116;Aukionkatu;1
+4117;Kaukajärventie;1
+4415;Ilmattarenkatu;1
+4416;Ilmattarenkatu;1
+4418;Leinolankatu 122;1
+4430;Kaipanen;1
+4432;Lorukorvenkatu;1
+4433;Lorukorvenkatu;1
+4500;Sampola;1
+4501;Kalevan kirkko;1
+4502;Kaalamonaukio;1
+4503;Sammonkatu 13;1
+4504;Sammonkatu 26;1
+4505;Uintikeskus;1
+4506;Uintikeskus;1
+4507;Sammonkatu 43;1
+4514;Sammonkatu 56;1
+4515;Sammonkatu 45;1
+4516;Sammonkatu 66;1
+4517;Sammonkatu 47;1
+4518;Sarvijaakonkatu ;1
+4519;Hakametsä;1
+4520;Hakametsä;1
+4521;Sammon valtatie;1
+4522;Sammon vt 10;1
+4523;Irjalankatu;1
+4524;Irjalankatu;1
+4525;Takahuhdin koulu;1
+4526;Takahuhdin koulu;1
+4527;Ristinarkku;1
+4528;Ristinarkku;1
+4529;Kässälä;1
+4530;Kässälä;1
+4531;Paloasema;1
+4532;Paloasema;1
+4533;Jussilankulma;1
+4534;Leinolankatu 18;1
+4536;Kotipellonkatu;1
+4537;Linnainmaankatu;1
+4538;Leinolankatu 72;1
+4539;Leinolankatu 69;1
+4540;Leinolankatu 90;1
+4541;Leinolankatu 95;1
+4542;Mikkola;1
+4543;Mikkola;1
+4544;Vestonkatu 24;1
+4545;Vestonkatu 11;1
+4546;Vestonkatu;1
+4547;Vestonkatu 35;1
+4548;Holvastinkatu;1
+4549;Holvastinkatu;1
+4550;Tilkankatu;1
+4551;Raudikonkatu;1
+4552;Orimuskatu;1
+4553;Orimuskatu;1
+4554;Holvasti;1
+4555;Kiveliönkatu;1
+4556;Ristinarkuntie;1
+4557;Vehnämyllynkatu;1
+4558;Vehnämyllynkatu;1
+4559;Aitolahdentie 27;1
+4560;Ali-huikkaantie 2;1
+4563;Mäentakusenkatu;1
+4564;Kissanmaa;1
+4565;Jäähalli;1
+4566;Jäähalli;1
+4567;Leinola;1
+4568;Leinolankatu 8;1
+4569;Janka;1
+4571;Hussankatu;1
+4572;Mäentakusenkatu;1
+4573;Leinolan koulu;1
+4574;Pikkupiiankatu;1
+4575;Piettasenristi;1
+4576;Piettasenkatu 28;1
+4577;Piettasenkatu;1
+4578;Leinolan koulu;1
+4579;Pikkupiiankatu;1
+4580;Hussankatu;1
+4581;Monttilanpolku;1
+4582;Alasniitynkatu;1
+4583;Jankanraitti;1
+4584;Monttilanpolku;1
+4585;Lahtomäenkatu 7;1
+4588;Piettasenristi;1
+4589;Orelmankatu;1
+4590;Ilmattarenkatu;1
+4600;Vatiala;1
+4602;Vatiala;2
+4903;Romsinlahti;1
+4910;Sammon valtatie 70;1
+4911;Kässälän silta;1
+4912;Linnainmaankatu;1
+4913;Linnainmaankatu;1
+4914;Pukinekatu;1
+4915;Pukinekatu;1
+5000;Kalevan kirkko;1
+5001;Teiskontie 13;1
+5002;Sammon aukio;1
+5003;Teiskontie 25;1
+5004;Teiskontie 24;1
+5005;TAMK;1
+5006;TAMK;1
+5007;TAYS;1
+5008;TAYS;1
+5009;Kissanmaankatu 7;1
+5010;Kissanmaankatu 8;1
+5011;Sudenkatu;1
+5012;Sudenkatu;1
+5013;Kissanmaa;1
+5014;Naistenlahti;1
+5015;Naistenlahti;1
+5016;Kaupin sairaala;1
+5017;Lapinniemen kylpylä;1
+5018;Lapinniemen kylpylä;1
+5019;Koukkuniemi;1
+5020;Koukkuniemi;1
+5021;Rauhaniemi;1
+5022;Saukkola;1
+5023;Kaupin sairaala;1
+5024;Veljeskoti;1
+5025;Veljeskoti;1
+5026;Koljontie 62;1
+5027;Koljontie 29;1
+5028;Koljontie 74;1
+5029;Koljontie 31;1
+5030;Petsamo;1
+5032;Ilvespuisto;1
+5033;Ilmarinkatu 35;1
+5034;Ilmarinkatu 38;1
+5035;Ilmarinkatu 45;1
+5036;Ilmarinkatu 46;1
+5038;Perhetukikeskus;1
+5039;Hoitokoti;1
+5040;Hoitokoti;1
+5041;Ali-Huikkaantie;1
+5042;Ali-Huikkaantie;1
+5043;Tenniskeskus;1
+5044;Tenniskeskus;1
+5045;Jaakonmäenkatu 1;1
+5046;Jaakonmäenkatu 2;1
+5047;Jaakonmäenkatu 5;1
+5048;Koilliskeskus;1
+5049;Jaakonmäenaukio;1
+5050;Huhmarinkatu 12;1
+5051;Huhmarinkatu 11;1
+5052;Huhmarinkatu 40;1
+5053;Huhmarinkatu 27;1
+5054;Jaakonmäenkatu 18;1
+5055;Irjala;1
+5056;Ruotula;1
+5057;Huikkaanaukio;1
+5058;Huikkaanaukio;1
+5061;Takahuhdintie 19;1
+5062;Takahuhdintie 20;1
+5063;Takahuhdintie 37;1
+5064;Takahuhdintie 46;1
+5065;Huikkaanaukio;1
+5066;Huikkaanaukio;1
+5067;Takahuhdintie 65;1
+5068;Takahuhdintie 86;1
+5069;Takahuhdin koulu;1
+5070;Takahuhdin koulu;1
+5071;Ristinarkku;1
+5073;Tanhuankatu 39;1
+5074;Tanhuankatu 40;1
+5075;Tanhuankatu 59;1
+5076;Tanhuankatu 48;1
+5077;Luhtaankatu;1
+5078;Luhtaankatu 8;1
+5079;Pienkodit;1
+5080;Pienkodit;1
+5081;Koilliskeskus;1
+5082;Atalankatu;1
+5083;Nikinväylä 36;1
+5085;Atanpuisto;1
+5086;Atanpuisto;1
+5087;Aitolahdentie 75;1
+5088;Atanväylä;1
+5089;Atanväylä;1
+5090;Nikki;1
+5091;Nikinväylä;1
+5092;Nikinväylä ;1
+5093;Ahola;1
+5094;Ahola;1
+5095;Kumpula;1
+5096;Ali-Huikkaantie 24;1
+5097;Kolarinkatu;1
+5098;Lautasenkatu;1
+5099;Lautasenkatu;1
+5100;Kuusimäenrinne;1
+5101;Irjalanaukio;1
+5104;Kolarinkatu;1
+5106;Irjalankatu;1
+5108;Irjalankatu;1
+5109;Irjalankatu 29;1
+5110;Linnahaankatu;1
+5111;Linnahaankatu;1
+5112;Hippoksenkatu;1
+5113;Hippoksenkatu;1
+5114;Biokatu;1
+5116;Irjalankatu;1
+5117;Teiskontie 61;1
+5118;Pienkodit;1
+5119;Pienkodit;1
+5120;Kirjavaisenkatu ;1
+5121;Kirjavaisenkatu 5;1
+5123;Koilliskeskus;1
+5124;Koilliskeskus;1
+5125;Aitolahdentie 43;1
+5126;Aitolahdentie 36;1
+5127;TAYS;1
+5128;Koilliskeskus;1
+5129;Atanväylä 19;1
+5130;Mäennotkonkatu;1
+5131;Aitolahdentie 95;1
+5132;Aitoniitynkatu;1
+5134;Itäinen aluetoimisto;1
+5135;Lusankatu 15;1
+5136;Orimuskatu 80;1
+5137;Kuusenmäenrinne;1
+5139;Ali-Huikkaantie 21;1
+5141;Orimuskatu 81;1
+5143;Aitoniitynkatu;1
+5145;Tuluskatu;1
+5161;Hannulankatu;1
+5170;Koukkutie;1
+5171;Riistakatu;1
+5172;Ritakatu 3;1
+5173;Ketunkatu;1
+5175;Sudenkatu 27;1
+5180;Paloniityntie;1
+5196;Koljontie 30;1
+5198;Kaupinkatu;1
+5200;Kumpula;1
+5201;Aitolahdentie 145;1
+5202;Kolmala;1
+5203;Kolmala;1
+5204;Ojala;1
+5205;Olkahinen;1
+5206;Olkahinen;1
+5207;Lennosto;1
+5208;Lennosto;1
+5209;Vastarannankatu;1
+5210;Vastarannankatu;1
+5211;Lintukalliontie;1
+5212;Lintukalliontie;1
+5213;Heinontie;1
+5214;Rauhalantie;1
+5215;Sorilanjoenahde;1
+5216;Kantapartolantie;1
+5217;Sorila;1
+5218;Sorila;1
+5220;Vt9 ramppi;1
+5221;Sorilan koulu;1
+5230;Lahtomäenkatu 2;1
+5232;Lahtomäenkatu;1
+5248;Kelkkakatu;1
+5249;Atala;1
+5250;Metsästäjänkatu;1
+5251;Ahkionkatu;1
+5252;Kaupin sairaala;1
+5253;UKK-instituutti;1
+5257;Pulkkakatu;1
+5259;Metsästäjänkatu;1
+5260;Nikinväylä;1
+5261;Nikinväylä 8;1
+5262;Ahkionkatu;1
+5264;Atala;1
+5266;Risso;1
+5270;Rissonkatu;1
+5271;Rissonkatu;1
+5272;Petäjässuonkatu;1
+5273;Petäjässuonkatu;1
+5299;Nurmi;1
+5300;Niihama;1
+5301;Sorilan koulu;1
+5302;Sorilan koulu;1
+5303;Kiviojantie;1
+5304;Kiviojantie;1
+5305;Eerolansuora th;1
+5306;Eerolansuora th;1
+5308;Eerolansuora th;1
+5309;Vähäranta;1
+5310;Vähäranta;1
+5311;Vääräjärvi;1
+5312;Vääräjärvi;1
+5313;Eerola;1
+5314;Eerola;1
+5315;Urponmaa;1
+5316;Urponmaa;1
+5317;Nokiniitty;1
+5318;Nokiniitty;1
+5319;Kannisto;1
+5320;Kannisto;1
+5321;Kolunkylä;1
+5322;Kolunkylä;1
+5323;Kolunkylä;1
+5324;Nuorajärvi;1
+5325;Nuorajärvi;1
+5326;Iso-Kartano;1
+5327;Iso-Kartano;1
+5328;Värmälä;1
+5329;Värmälä;1
+5330;Salama;1
+5331;Salama;1
+5332;Mutikonlahti;1
+5333;Mutikonlahti;1
+5334;Mikkolanniemi;1
+5335;Mikkolanniemi;1
+5336;Paavola th;1
+5337;Paavola th;1
+5338;Kämmenniemi;1
+5339;Kämmenniemi;1
+5340;Aunessilta;1
+5341;Aunessilta;1
+5342;Koivuniemi;1
+5343;Koivuniemi;1
+5344;Kuusjärvi th;1
+5345;Kuusjärvi th;1
+5346;Ripojärvi;1
+5347;Ripojärvi;1
+5348;Ripovuoret;1
+5349;Ripovuoret;1
+5350;Taulaniemi th;1
+5351;Taulaniemi th;1
+5352;Poukka;1
+5353;Poukka;1
+5354;Toijakylä;1
+5355;Toijakylä;1
+5356;Mäkelänmaa;1
+5357;Mäkelänmaa;1
+5358;Teiskola;1
+5359;Teiskola;1
+5360;Teisko kko th;1
+5361;Teisko kko th;1
+5362;Maisansalo;1
+5363;Maisansalo th;1
+5364;Maisansalo th;1
+5365;Torpparinsuo;1
+5366;Torpparinsuo;1
+5367;Tuhkuri;1
+5368;Tuhkuri;1
+5369;Uusi-Koverontie;1
+5370;Uusi-Koverontie;1
+5371;Terveystalo;1
+5372;Terveystalo;1
+5373;Terälahti;1
+5374;Terälahti;1
+5375;Terämaa;1
+5376;Terämaa;1
+5377;Etelä;1
+5378;Etelä;1
+5379;Eteläpohja;1
+5380;Eteläpohja;1
+5381;Velaatta;1
+5382;Velaatta;1
+5383;Salmensilta;1
+5384;Salmensilta;1
+5385;Särkänperä;1
+5386;Särkänperä;1
+5387;Ilvesjoki;1
+5388;Ilvesjoki;1
+5389;Murole th;1
+5390;Murole th;1
+5391;Kaanaa;1
+5392;Kaanaa;1
+5393;Mäntylä;1
+5394;Mäntylä;1
+5395;Niemikyläntie;1
+5397;Maitolaituri;1
+5398;Maitolaituri;1
+5400;Sorilan koulu;1
+5401;Sorilan koulu;1
+5402;Jokivalkamantie;1
+5403;Jokivalkamantie;1
+5404;Hirsimoisio;1
+5405;Hirsimoisio;1
+5406;Tervasuontie;1
+5407;Tervasuontie;1
+5408;Laalahti;1
+5409;Laalahti;1
+5410;Aitolahti kko;1
+5411;Aitolahti kko;1
+5412;Ruokosenraitti;1
+5413;Ruokosenraitti;1
+5414;Ruokonen;1
+5415;Ruokonen;1
+5416;Pättinniemi th;1
+5417;Pättinniemi th;1
+5418;Lampu;1
+5419;Lampu;1
+5420;Diabeteskeskus;1
+5421;Hirviniemi th;1
+5422;Hirviniemi th;1
+5425;Aitoniemi;1
+5500;Marttila;1
+5501;Marttila;1
+5502;Hinkkala;1
+5503;Hinkkala;1
+5504;Palonkylä th;1
+5505;Palonkylä th;1
+5524;Viitapohja;1
+5527;Paarla;1
+5528;Paarla;1
+5529;Rajakorpi;1
+5530;Rajakorpi;1
+5531;Kuorejärvi;1
+5532;Kuorejärvi;1
+5533;Vierukallio;1
+5534;Vierukallio;1
+5535;Mattilansuo;1
+5536;Mattilansuo;1
+5537;Riuttanmäki;1
+5538;Riuttanmäki;1
+5539;Syväjärvi th;1
+5540;Syväjärvi th;1
+5541;Sisaruspohja;1
+5542;Sisaruspohja;1
+5543;Kurjentie;1
+5544;Kurjentie;1
+5545;Lahdentausta;1
+5546;Lahdentausta;1
+5547;Pyykkirannantie;1
+5548;Pyykkirannantie;1
+5549;Ala-Pärri;1
+5550;Ala-Pärri;1
+5551;Tiinukorpi;1
+5552;Tiinukorpi;1
+5553;Perkiönvuori;1
+5554;Perkiönvuori;1
+5555;Vattula;1
+5556;Vattula;1
+5557;Loppi;1
+5558;Loppi;1
+5559;Ylä-Pirilä;1
+5560;Ylä-Pirilä;1
+5561;Pirilä;1
+5562;Pirilä;1
+5563;Iso-Kartano;1
+5564;Iso-Kartano;1
+5600;Teisko kko th;1
+5644;Kalliojärvi;1
+5645;Kalliojärvi;1
+5646;Koikantie;1
+5647;Koikantie;1
+5648;Koivuporras;1
+5649;Koivuporras;1
+6000;Palstatie;S
+6001;Palstatie;S
+6002;Hatolantie;S
+6003;Hatolantie;S
+6004;Kaivokuja;S
+6005;Kaivokuja;S
+6006;Kallenkuja;S
+6007;Kallenkuja;S
+6008;Käyräkuja;S
+6009;Käyräkuja;S
+6010;Tanhuatie;S
+6011;Tanhuatie;S
+6012;Särkitie;S
+6013;Särkitie;S
+6014;Pohjanpolku;S
+6015;Pohjanpolku;S
+6016;Harjutie;S
+6017;Harjutie;S
+6018;Tornitie;S
+6019;Tornitie;S
+6020;Erkontie;S
+6021;Erkontie;S
+6025;Ylöjärvi Matkatie;S
+6050;Teivo;S
+6051;Teivo;S
+6052;Urheilutalo;S
+6053;Urheilutalo;S
+6054;Ylöjärven lukio;S
+6056;Kumitie;S
+6057;Kumitie;S
+6058;Ylöjärven ABC;S
+6059;Ylöjärven ABC;S
+6061;Pilkington;S
+6062;Huurre;S
+6063;Huurre;S
+6064;Metsäkylä th;S
+6065;Metsäkylä th;S
+6066;Hautalammi;S
+6067;Hautalammi;S
+6068;Työläjärvi th;S
+6069;Työläjärvi th;S
+6070;Menotie;S
+6071;Menotie;S
+6072;Tulotie;S
+6073;Tulotie;S
+6074;Pinotie;S
+6075;Pinotie;S
+6076;Topintupa;S
+6077;Topintupa;S
+6078;Röökinmäki;S
+6079;Röökinmäki;S
+6080;Karhumaa;S
+6081;Karhumaa;S
+6082;Ylä-Pinsiö;S
+6083;Ylä-Pinsiö;S
+6088;Ravitie;S
+6089;Ravitie;S
+6090;Ravirata;S
+6091;Ravirata;S
+6092;Keijärventie;S
+6093;Keijärventie;S
+6094;Mikkolantie;S
+6095;Mikkolantie;S
+6096;Terätie;S
+6097;Terätie;S
+6098;Terveyskeskus;S
+6099;Terveyskeskus;S
+6100;Matkatie;S
+6101;Matkatie;S
+6103;Matkatie;S
+6104;Kirkonkylän koulu;S
+6105;Kirkonkylän koulu;S
+6106;Halmetie;S
+6107;Halmetie;S
+6108;Katajistontie;S
+6109;Katajistontie;S
+6111;Asemantie;S
+6112;Kirjasto;S
+6113;Kirjasto;S
+6139;Asematie 4;S
+6140;Ylöjärven jäähalli;S
+6141;Ylöjärven jäähalli;S
+6142;Kauppakeskus;S
+6143;Kauppakeskus;S
+6144;Muovitie;S
+6145;Muovitie;S
+6146;Kolsopintie;S
+6147;Kolsopintie;S
+6148;Saraheinäntie;S
+6149;Saraheinäntie;S
+6150;Pehkutie ;S
+6151;Pehkutie ;S
+6152;Metsäkylä;S
+6153;Metsäkylä;S
+6154;Paavonpolku;S
+6155;Paavonpolku;S
+6156;Taimitie;S
+6157;Taimitie;S
+6158;Metsäkylän koulu;S
+6159;Metsäkylän koulu;S
+6161;Metsäkylä kääntöpaikka;S
+6162;Shell Ylöjärvi;S
+6163;Shell Ylöjärvi;S
+6170;Keijärvenpolku;S
+6171;Keijärvenpolku;S
+6172;Peltola;S
+6174;Asuntilan aurinkorinne;S
+6176;Idäntie;S
+6178;Mahlatie;S
+6180;Mäenrinteentie;S
+6182;Suolaniityntie;S
+6184;Liisanniitty;S
+6186;Lähteenmäentie;S
+6188;Asuntilan th;S
+6200;Kauraslaaksontie;S
+6201;Kauraslaaksontie;S
+6202;Siironmaantie;S
+6203;Siironmaantie;S
+6204;Takamaantie;S
+6205;Takamaantie;S
+6206;Lukukorventie th;S
+6207;Lukukorventie th;S
+6208;Viisajärvi;S
+6209;Viisajärvi;S
+6210;Lukukorventie ;S
+6211;Lukukorventie ;S
+6212;Koivu-Raattala;S
+6213;Koivu-Raattala;S
+6214;Vanhakouluntie;S
+6215;Vanhakouluntie;S
+6216;Vastamäentie 151;S
+6217;Vastamäentie 151;S
+6218;Vastamäentie 187;S
+6219;Vastamäentie 187;S
+6220;Pajulanraitti;S
+6221;Pajulanraitti;S
+6260;Keskivainiontie;S
+6261;Keskivainiontie;S
+6262;Veittijärvi;S
+6263;Veittijärvi;S
+6264;Laiduntie;S
+6266;Antaverkka th;S
+6267;Antaverkka th;S
+6268;Puutoimi;S
+6269;Puutoimi;S
+6270;Salinsuontie;S
+6271;Salinsuontie;S
+6272;Vahanta;S
+6273;Vahanta;S
+6274;Vahantaluhdantie;S
+6275;Vahantaluhdantie;S
+6276;Peräsilta;S
+6277;Peräsilta;S
+6278;Oralantie;S
+6279;Oralantie;S
+6280;Koluojantie;S
+6281;Koluojantie;S
+6282;Kaihari;S
+6283;Kaihari;S
+6284;Ylisen kuntoutuskeskus;S
+6285;Ylisen kuntoutuskeskus;S
+6286;Kallioniementie;S
+6287;Kallioniementie;S
+6288;Niemelänlahdentie;S
+6290;Voionmaa opisto;S
+6291;Voionmaa opisto;S
+6292;Säynäväjärventie;S
+6293;Säynäväjärventie;S
+6294;Aarniontie;S
+6295;Aarniontie;S
+6296;Vääränahteentie;S
+6297;Vääränahteentie;S
+6298;Sorvajärvi th;S
+6299;Sorvajärvi th;S
+6300;Mutalan koulu;S
+6301;Mutalan koulu;S
+6302;Ilottulantie;S
+6303;Ilottulantie ;S
+6304;Susikiventie;S
+6305;Susikiventie;S
+6306;Servontie;S
+6307;Servontie;S
+6308;Uusi Kurun th;S
+6309;Uusi Kurun th;S
+6310;Liivalammintie;S
+6311;Liivalammintie;S
+6312;Saunintie;S
+6313;Saunintie;S
+6314;Kaunistontie;S
+6315;Kaunistontie;S
+6316;Niemenperä;S
+6317;Niemenperä;S
+6318;Saunijärventie;S
+6319;Saunijärventie;S
+6320;Unisilta;S
+6321;Unisilta;S
+6322;Lehmusvirta;S
+6323;Lehmusvirta;S
+6324;Kauppi;S
+6325;Kauppi;S
+6326;Mäntylä;S
+6327;Mäntylä;S
+6328;Karhe;S
+6329;Karhe;S
+6330;Soukonsalmen silta;S
+6332;Nopanperäntie;S
+6334;Majaniemi;S
+6335;Majaniemi;S
+6336;Taipale;S
+6337;Taipale;S
+6338;Koivistonkyläntie;S
+6339;Koivistonkyläntie;S
+6340;Koivistonkylä;S
+6341;Koivistonkylä;S
+6342;Vironlahdentie;S
+6343;Vironlahdentie;S
+6344;Parvilahti;S
+6345;Parvilahti;S
+6346;Hirvilahti;S
+6347;Hirvilahti;S
+6348;Kukkula;S
+6349;Kukkula;S
+6350;Pikkupispalantie;S
+6351;Pikkupispalantie;S
+6353;Lippaanlahti;S
+6354;Voisaari;S
+6355;Voisaari;S
+6356;Säkintie;S
+6357;Säkintie;S
+6358;Lehtomäki;S
+6359;Lehtomäki;S
+6360;Kellaritie;S
+6361;Kellaritie;S
+6362;Piuhalantie;S
+6363;Piuhalantie;S
+6364;Kirkkokuja;S
+6365;Kirkkokuja;S
+6366;Riihitie;S
+6367;Riihitie;S
+6378;Teboil Ylöjärvi;S
+6379;Teboil Ylöjärvi;S
+6380;Ahvenlammi;S
+6382;Känsämäki;S
+6383;Känsämäki;S
+6384;Oinonvuori;S
+6385;Oinonvuori;S
+6386;Oinonkulma;S
+6387;Oinonkulma;S
+6388;Hyynilä;S
+6389;Hyynilä;S
+6390;Säkinoja;S
+6391;Säkinoja;S
+6392;Kiviranta;S
+6393;Kiviranta;S
+6394;Peräniitty;S
+6395;Peräniitty;S
+6397;Soukko;S
+6611;Parkkuu;S
+6646;Virtain rajan kääntöpaikka;S
+6803;Itä-Aure;S
+6841;Koppasuon kääntöpaikka;S
+6870;Länsi-Teisko;S
+7000;Karhumäki;1
+7001;Karhumäki;1
+7002;Pakkalankulma;1
+7003;Pakkalankulma;1
+7004;Hannunpolku;1
+7005;Hannunpolku;1
+7006;Nuolialan koulu;1
+7007;Nuolialan koulu;1
+7008;Loukonlahti;1
+7009;Killo;1
+7010;Haikka;1
+7011;Haikka;1
+7012;Kurikka;1
+7013;Kurikka;1
+7014;Kuntakeskus;1
+7015;Kuntakeskus;1
+7016;Suupantori;1
+7017;Suupantori;1
+7018;Terveyskeskus;1
+7019;Tommila;1
+7020;Nuijamiehentie;1
+7021;Pirkkalan jäähalli;1
+7022;Teollisuustie;1
+7023;Vaitti;1
+7024;Heikkiläntie;1
+7025;Keskisentie;1
+7026;Koivisto;1
+7027;Koivisto;1
+7028;Lasikaari;1
+7029;Lasikaari;1
+7030;Sorkkala;1
+7031;Sorkkala;1
+7032;Pauni;1
+7033;Pauni;1
+7035;Lentoasema;1
+7036;Niemenmaa;1
+7037;Ollila;1
+7038;Perkiöntie;1
+7039;Perkiöntie;1
+7040;Kyösti;1
+7041;Kyösti;1
+7042;Turri;1
+7043;Turri;1
+7044;Taitajankuja;1
+7045;Haapatie;1
+7046;Kunnan varasto;1
+7047;Lehtimäentie;1
+7048;Kyöstinpolku;1
+7049;Kyöstinpolku;1
+7050;Vasamapolku;1
+7051;Vasamapolku;1
+7052;Valimotie;1
+7053;Valimotie;1
+7054;Ahvenistontie;1
+7055;Metallitie;1
+7057;Teollisuustie;1
+7060;Kyösti;1
+7070;Koulukeskus;1
+7071;Koulukeskus;1
+7072;Puuhkalakki;1
+7073;Puuhkalakki;1
+7074;Hakatie;1
+7075;Hakatie;1
+7076;Sienimetsäntie;1
+7077;Sienimetsäntie;1
+7078;Erämiehentie;1
+7079;Erämiehentie;1
+7080;Amiraali;1
+7081;Amiraali;1
+7082;Kirjosiipi;1
+7083;Kirjosiipi;1
+7084;Hopeatäplä;1
+7085;Hopeatäplä;1
+7086;Pirkkalan jäähalli;1
+7090;Kukkulantie;1
+7091;Kukkulantie;1
+7092;Aittokorventie;1
+7093;Aittokorventie;1
+7094;Prunnintie;1
+7095;Prunnintie;1
+7096;Linnakallio;1
+7097;Linnakallio;1
+7100;Ryttylänmäki;1
+7101;Ryttylänmäki;1
+7112;Sankila;1
+7113;Sankila;1
+7114;Kirkonkylän koulu;1
+7115;Kirkonkylän koulu;1
+7116;Tanila;1
+7117;Tanila;1
+7118;Koiso;1
+7119;Koiso;1
+7120;Vanhakirkko;1
+7121;Vanhakirkko;1
+7122;Kranaatinmäki;1
+7123;Kranaatinmäki;1
+7124;Reippi;1
+7125;Reippi;1
+7126;Peuhula;1
+7127;Peuhula;1
+7128;Jyrkänpää;1
+7129;Jyrkänpää;1
+7130;Hiidenmaa;1
+7131;Hiidenmaa;1
+7132;Toppari;1
+7133;Toppari;1
+7134;Hahmo;1
+7135;Hahmo;1
+7136;Laitalemmi;1
+7137;Laitalemmi;1
+7138;Einola;1
+7139;Einola;1
+7140;Kranstolppa;1
+7141;Kranstolppa;1
+7142;Hongisto;1
+7143;Hongisto;1
+7144;Äijälä;1
+7145;Äijälä;1
+7146;Harkote;1
+7147;Harkote;1
+7148;Daavid;1
+7149;Daavid;1
+7150;Höökinmäki;1
+7151;Höökinmäki;1
+7160;Sorkkala;1
+7161;Sorkkala;1
+7162;Hyrsingin koulu;1
+7163;Hyrsingin koulu;1
+7164;Hyrsinki;1
+7165;Hyrsinki;1
+7166;Lintumäki;1
+7167;Lintumäki;1
+7168;Järviniitty;1
+7169;Järviniitty;1
+7170;Sionkylä;1
+7171;Sionkylä;1
+7172;Isolammi;1
+7173;Isolammi;1
+7174;Valkila;1
+7175;Valkila;1
+7500;Marjamäenkatu;1
+7501;Marjamäenkatu;1
+7503;Rajasilta;1
+7504;Rajasilta;1
+7505;Lampipolku;1
+7506;Lampipolku;1
+7507;Vikkiniitty;1
+7508;Vikkiniitty;1
+7509;Karhumäki;1
+7510;Karhumäki;1
+7511;Sääksjärven koulu;1
+7512;Sääksjärven koulu;1
+7513;Kurjentaival;1
+7514;Kurjentaival;1
+7515;Ahonperä;2
+7516;Ahonperä;2
+7517;Kukonkivi;2
+7518;Kukonkivi;2
+7519;Saviahde;2
+7520;Saviahde;2
+7521;Veräjätausta;2
+7522;Veräjätausta;2
+7523;Kuljun työväentalo;2
+7524;Kuljun työväentalo;2
+7525;Kuljun asematie;2
+7526;Kuljun asematie;2
+7527;Kuljun kartano;2
+7528;Kuljun kartano;2
+7529;Kuljun koulu;2
+7530;Kuljun koulu;2
+7531;Kukkolanmäki;2
+7532;Kukkolanmäki;2
+7533;Itkukallio;2
+7534;Itkukallio;2
+7535;Ruskea-ahde;2
+7536;Ruskea-ahde;2
+7537;Lohikallio;2
+7538;Lohikallio;2
+7539;Hattulanmäki;2
+7540;Hattulanmäki;2
+7541;Moisionjoki;2
+7542;Moisionjoki;2
+7543;Moision koulu;2
+7544;Moision koulu;2
+7545;Pysäkkitie;2
+7546;Pysäkkitie;2
+7547;Hakkari;2
+7548;Hakkari;2
+7549;Kuokkala;2
+7550;Kuokkala;2
+7551;Majauslahti;2
+7552;Majauslahti;2
+7553;Harakkala;2
+7554;Harakkala;2
+7555;Lempäälän työväentalo;2
+7556;Lempäälän työväentalo;2
+7557;Lempäälän terveyskeskus;2
+7558;Lempäälän terveyskeskus;2
+7559;Lempäälä;2
+7560;Lempäälä;2
+7561;Kuokatinmäki;2
+7562;Kuokatinmäki;2
+7563;Kanava;2
+7564;Kanava;2
+7565;Sulkola;2
+7566;Sulkola;2
+7567;Toimintakeskus;2
+7568;Toimintakeskus;2
+7569;Sitarinkuja;2
+7570;Sitarinkuja;2
+7571;Aittapolku;2
+7572;Aittapolku;2
+7573;Haurala;2
+7600;Vesilahti th;2
+7601;Vesilahti th;2
+7602;Lomamökit;2
+7603;Lomamökit;2
+7604;Toutosentie;2
+7605;Toutosentie;2
+7606;Päivääniemi;3
+7607;Päivääniemi;3
+7608;Prikoolinnokka;3
+7609;Prikoolinnokka;3
+7610;Koirainmäki;3
+7611;Koirainmäki;3
+7612;Kausala;3
+7613;Kausala;3
+7614;Kesontie;3
+7615;Kesontie;3
+7616;Kirkonkylän koulu;3
+7617;Kirkonkylän koulu;3
+7618;Tapolantie;3
+7619;Tapolantie;3
+7620;Kirkkolahdentie;3
+7621;Kirkkolahdentie;3
+7622;Vesilahden kirkko;3
+7623;Vesilahden kirkko;3
+7624;Vesilahti;3
+7625;Vesilahti;3
+7650;Kiilto;1
+7651;Kiilto;1
+7652;Kultasepäntie;1
+7653;Kultasepäntie;1
+7654;Suutarintie;1
+7655;Suutarintie;1
+7656;Höytämöntie;1
+7657;Höytämöntie;1
+7658;Paununlahti;1
+7660;Taavetintie;1
+7661;Taavetintie;1
+7662;Höytämö;1
+7700;Siskontie;2
+7701;Siskontie;2
+7702;Vanattara;2
+7703;Vanattara;2
+7704;Lehtimäentie;2
+7705;Lehtimäentie;2
+7706;Sorvalammentie;2
+7707;Sorvalammentie;2
+7708;Kukkolantie;2
+7709;Kukkolantie;2
+7710;Vätäräisentie;2
+7711;Vätäräisentie;2
+7800;Saikantie;2
+7801;Saikantie;2
+7802;Ideapark;2
+7803;Ideapark;2
+7804;Helsingintie;2
+7805;Helsingintie;2
+7806;Sääksjärvi th;1
+7807;Sääksjärvi th;1
+7810;Ruskea-ahde th;2
+7811;Ruskea-ahde th;2
+7812;Iisakintie;2
+7813;Iisakintie;2
+7814;Palomäki;2
+7815;Palomäki;2
+7850;Rautialantie;3
+7851;Kesola;3
+7852;Vihniäntie;3
+7853;Vihniäntie;3
+7854;Järvenrannantie;3
+7855;Järvenrannantie;3
+7856;Tanska;3
+7857;Tanska;3
+7858;Koskenkyläntie;3
+7859;Koskenkyläntie;3
+7860;Vatajantie;3
+7861;Vatajantie;3
+7862;Kauppilantie;3
+7863;Kauppilantie;3
+7864;Maarianmäki;3
+7865;Maarianmäki;3
+7866;Ilmiäntie;3
+7867;Ilmiäntie;3
+7868;Viraantie;3
+7869;Viraantie;3
+7870;Asikaisentie;3
+7871;Asikaisentie;3
+7872;Koivistalhontie;3
+7873;Koivistalhontie;3
+7874;Punkalaitumentie;3
+7875;Punkalaitumentie;3
+7876;Kostialansaarentie;3
+7877;Kostialansaarentie;3
+7879;Latomaantie;3
+7880;Narva;3
+7900;Jokioistentie;3
+7903;Rautiala;3
+7905;Suomela;3
+8000;Liuttu;2
+8001;Liuttu;2
+8002;Pitkäjärvi;2
+8003;Kasarmi;2
+8004;Ilkonmäki;2
+8005;Kappeli;2
+8006;Ilkko;2
+8007;Mäkirinteentie;2
+8008;Artturintie;2
+8009;Lentolankuja;2
+8010;Mämmisuo;2
+8011;Lentolantie;2
+8012;Suorama;2
+8013;Suoraman työväentalo;2
+8014;Pähkinäkallio;2
+8015;Isolukko;2
+8016;Kaijanaho;2
+8017;Harjunsalo;2
+8018;Korpitie;2
+8019;Nikkarintie;2
+8020;Pikonkangas;2
+8021;Pikontie;2
+8022;Pikkola;2
+8023;Kiuruntie;2
+8024;Pikkolan koulu;2
+8025;Peiponpolku;2
+8026;Rääkkölä;2
+8027;Kangasalan jäähalli;2
+8028;Tarpila;2
+8029;Rekiälä;2
+8030;Urkutehdas;2
+8031;Tapulinmäki;2
+8032;Kirkkomaa;2
+8034;Kangasala;2
+8035;Kangasala;2
+8037;Pikkuharju;2
+8039;Kuohunharju;2
+8040;Kangasala;2
+8041;Herttualantie;2
+8042;Kuohunlahti;2
+8043;Jousitie;2
+8044;Herttualantie;2
+8045;Mäyrävuori;2
+8046;Jousitie;2
+8047;Jokioistentie;2
+8048;Mäyrävuori;2
+8049;Kirvesmiehentie;2
+8050;Jokioistentie;2
+8051;Kangasalan ammattiopisto;2
+8052;Kirvesmiehentie;2
+8053;Yli-Marttila;2
+8054;Kangasalan ammattiopisto;2
+8055;Tiihala th;2
+8056;Yli-Marttila;2
+8057;Keisarinharju;2
+8058;Tiihala th;2
+8059;Syrjänpääntie;2
+8060;Keisarinharju;2
+8062;Syrjänpääntie;2
+8064;Kaivannon sairaala;2
+8070;Pikkola;2
+8080;Suoraman koulu (8080);2
+8081;Suoraman koulu (8081);2
+8101;Urheilutie;2
+8102;Lepokodintie;2
+8103;Lepokodintie;2
+8104;Mäntyveräjä;2
+8107;Mäntyveräjä;2
+8108;Tursola;2
+8109;Tursola;2
+8110;Papinojantie;2
+8111;Papinojantie;2
+8112;Otsolantie;2
+8113;Otsolantie;2
+8114;Kortesuontie;2
+8115;Kortesuontie;2
+8116;Metsäkulma;2
+8117;Metsäkulma;2
+8118;Seppämestarintie;2
+8121;Seppämestarintie;2
+8122;Kangasalan asema th;2
+8125;Kangasalan asema th;2
+8126;Luottamusmiehentie;2
+8127;Luottamusmiehentie;2
+8128;Pajatie;2
+8129;Pajatie;2
+8130;Kalliontie;2
+8131;Kalliontie;2
+8133;Vällintie;2
+8134;Vällintie;2
+8136;Lentola;2
+8137;Lentola;2
+8140;Mannakorpi;1
+8141;Mannakorpi;1
+8142;Iivarintie;1
+8143;Iivarintie;1
+8144;Nattari;1
+8145;Nattari;1
+8146;Vatialan koulu;1
+8147;Vatialan koulu;1
+8148;Sudenkorennontie;1
+8149;Sudenkorennontie;1
+8150;Mäntyveräjä;2
+8151;Pikonlinna th;2
+8152;Pikonlinna th;2
+8153;Tavela;2
+8154;Tavela;2
+8155;Riunlahti;2
+8156;Riunlahti;2
+8157;Riunoja;2
+8158;Riunoja;2
+8159;Rikun päiväkoti;2
+8160;Rikun päiväkoti;2
+8161;Vallituntie;2
+8162;Vallituntie;2
+8163;Reumantie;2
+8164;Reumantie;2
+8166;Pikonlinna;2
+8170;Vällintie;2
+8171;Vällintie;1
+8190;Laureeninkallio;2
+8200;Laureenintie;2
+8201;Laureenintie;2
+8202;Honkatie;2
+8203;Honkatie;2
+8204;Leppätie;2
+8205;Leppätie;2
+8206;Ruutana;2
+8207;Ruutana;2
+8208;Lakolammentie;2
+8209;Lakolammentie;2
+8210;Korvenperä;2
+8211;Korvenperä;2
+8212;Ruutanan koulu;2
+8213;Ruutanan koulu;2
+8214;Lakoniitty;2
+8215;Lakoniitty;2
+8216;Huhdintie;2
+8217;Huhdintie;2
+8218;Lahdensivuntie;2
+8219;Lahdensivuntie;2
+8220;Hepolahti;2
+8221;Hepolahti;2
+8222;Raskintie;2
+8223;Raskintie;2
+8224;Kalliolantie;2
+8225;Kalliolantie;2
+8226;Päkinmäki;2
+8227;Päkinmäki;2
+8228;Leppämäentie;2
+8229;Leppämäentie;2
+8230;Riitinmäentie;2
+8231;Riitinmäentie;2
+8232;Jussila th;2
+8234;Iskelä;2
+8235;Iskelä;2
+8236;Salotie;2
+8237;Salotie;2
+8238;Ratavartijantie;2
+8239;Ratavartijantie;2
+8240;Jussila;2
+8300;Satusedäntie;2
+8301;Satusedäntie;2
+8302;Ranssila;2
+8303;Ranssila;2
+8304;Mustoontie;2
+8305;Mustoontie;2
+8306;Muistomerkintie;2
+8307;Muistomerkintie;2
+8308;Suinula;2
+8309;Suinula;2
+8310;Suinula as th;2
+8311;Suinula as th;2
+8316;Suinulan asema;2
+8320;Siitamantie;2
+8322;Vanhatie;2
+8323;Vanhatie;2
+8324;Rukoushuone;2
+8325;Rukoushuone;2
+8326;Yli-Nikkilä;2
+8327;Yli-Nikkilä;2
+8328;Toosilanniementie;2
+8329;Toosilanniementie;2
+8331;Perälä th;2
+8340;Korvenperäntie;2
+8341;Mustijärventie;2
+8342;Mellijärvi;2
+8343;Mellijärvi;2
+8344;Siperiantie;2
+8345;Siperiantie;2
+8346;Shell Ruutana;2
+8347;Shell Ruutana;2
+8350;Myllytie;2
+8351;Myllytie;2
+8352;Vääksynpolku;2
+8353;Vääksynpolku;2
+8354;Ranta-Virkkula;2
+8355;Ranta-Virkkula;2
+8356;Kesäpirtti;2
+8357;Kesäpirtti;2
+8358;Kaipaanniemi;2
+8359;Kaipaanniemi;2
+8360;Suomatka;2
+8361;Suomatka;2
+8362;Hokkanen;2
+8363;Hokkanen;2
+8364;Kurkiniemi;2
+8365;Kurkiniemi;2
+8366;Keso;2
+8367;Keso;2
+8368;Talvilahti;2
+8369;Talvilahti;2
+8370;Kaitaa;2
+8371;Kaitaa;2
+8372;Sammalisto;2
+8373;Sammalisto;2
+8374;Rutamäki;2
+8375;Rutamäki;2
+8376;Sillanmäki;2
+8377;Sillanmäki;2
+8378;Vahderpää;2
+8379;Vahderpää;2
+8380;Muuramäki;2
+8381;Muuramäki;2
+8382;Raudanmaantie;2
+8383;Raudanmaantie;2
+8384;Järvikulmantie;2
+8385;Järvikulmantie;2
+8386;Ranta-Einola;2
+8387;Ranta-Einola;2
+8388;Leppoja;2
+8389;Leppoja;2
+8390;Hopearanta;2
+8391;Hopearanta;2
+8392;Parantaja;2
+8393;Parantaja;2
+8394;Tulokkaantie;2
+8395;Tulokkaantie;2
+8396;Kautialan koulu;2
+8397;Kautialan koulu;2
+8398;Isonkiventie;2
+8399;Isonkiventie;2
+8400;Karppilanrantatie;2
+8401;Karppilanrantatie;2
+8402;Peräkorventie;2
+8403;Peräkorventie;2
+8404;Ponsantie;2
+8405;Ponsantie;2
+8406;Neulaniemi;2
+8407;Neulaniemi;2
+8408;Rantalanlahti;2
+8409;Rantalanlahti;2
+8410;Rantahaka;2
+8412;Kirkkosaarentie;2
+8413;Kirkkosaarentie;2
+8414;Ponsa;2
+8415;Ponsa;2
+8416;Pihtikorpi;2
+8417;Pihtikorpi;2
+8418;Mäyrä;2
+8419;Mäyrä;2
+8420;Kautio;2
+8421;Kautio;2
+8422;Rauhala;S
+8423;Rauhala;S
+8424;Tollionmaa;S
+8425;Tollionmaa;S
+8426;Rajalahdentie;S
+8427;Rajalahdentie;S
+8428;Naappila;S
+8429;Naappila;S
+8430;Orivedentie;S
+8431;Orivedentie;S
+8432;Pukkivuori;S
+8433;Pukkivuori;S
+8434;Väinöläntie;S
+8435;Väinöläntie;S
+8436;Hyväsillantie;S
+8437;Hyväsillantie;S
+8438;Kapulantie;S
+8439;Kapulantie;S
+8440;Hermannintie;S
+8441;Hermannintie;S
+8442;Pysäkkitie;S
+8443;Pysäkkitie;S
+8444;Ruskatie;S
+8445;Ruskatie;S
+8446;Hiedantie;S
+8447;Hiedantie;S
+8448;Varismäki;S
+8449;Varismäki;S
+8450;Pitkäjärven koulu;2
+8460;Kivikkotie;2
+8461;Kivikkotie;2
+8462;Salotie;2
+8463;Salotie;2
+8464;Ratavartijantie;2
+8465;Ratavartijantie;2
+8466;Jussila;2
+8470;Oriveden asema;S
+8471;Oriveden asema;S
+8472;Mäkitie;S
+8473;Mikontie;S
+8474;Sairaalantie;S
+8475;Sairaalantie;S
+8476;Keskustie;S
+8477;Keskustie;S
+8479;Paavonkuja;S
+8480;Oriveden keskusta;S
+8481;Oriveden keskusta;S
+8482;Oriveden hautausmaa;S
+8483;Oriveden hautausmaa;S
+8485;Orivesi;S
+8500;Maatiala;2
+8501;Maatiala;2
+8502;Kennonnokka;2
+8503;Kennonnokka;2
+8504;Nokian kirkko;2
+8505;Nokian kirkko;2
+8506;Nokian lukio;2
+8507;Nokian lukio;2
+8508;Kylmäojanpuisto;2
+8509;Kylmäojanpuisto;2
+8510;Tyttölä;2
+8511;Tyttölä;2
+8512;Härkitie;2
+8520;Nokian asema D;2
+8522;Nokian asema A;2
+8524;Nokian asema C;2
+8526;Nokian asema B;2
+8528;Nokian asema E;2
+8530;Nokian ammattiopisto;2
+8531;Nokian ammattiopisto;2
+8532;Kankaantaankatu;2
+8533;Kankaantaankatu;2
+8534;Kankaantaka;2
+8535;Kankaantaka;2
+8536;Pajakatu;2
+8537;Pajakatu;2
+8538;Öljytie;2
+8539;Öljytie;2
+8540;Kalkuntie 1-3;2
+8541;Kalkuntie 1-3;2
+8542;Horsmapolku;2
+8543;Horsmapolku;2
+8544;Vihnusjärvenkatu;2
+8545;Vihnusjärvenkatu;2
+8546;Vihnuskallionkatu;2
+8547;Vihnuskallionkatu;2
+8548;Välimaantie;2
+8549;Välimaantie;2
+8554;Perkiönkatu;2
+8555;Perkiönkatu;2
+8556;Kallenkatu;2
+8557;Kallenkatu;2
+8558;Lehmuskatu;2
+8559;Kuusikatu;2
+8560;Halimaa;2
+8561;Halimaa;2
+8562;Pajakallionkatu;2
+8563;Pajakallionkatu;2
+8564;Ilkan alue;2
+8565;Ilkan alue;2
+8567;Rapinkorventie;2
+8569;Kankaantaan koulu;2
+8570;Villa Silva;2
+8571;Villa Silva;2
+8572;Myllyhaka;2
+8573;Myllyhaka;2
+8574;Korpikatu;2
+8575;Korpikatu;2
+8576;Lähdekorpi;2
+8577;Lähdekorpi;2
+8578;Notkotie;2
+8579;Notkotie;2
+8580;Pitkäkorventie;2
+8581;Pitkäkorventie;2
+8582;Lähdeniitty;2
+8583;Lähdeniitty;2
+8584;Valimokatu;2
+8585;Valimokatu;2
+8586;Taka-Lauttala;2
+8587;Taka-Lauttala;2
+8588;Torvisienenkatu;2
+8589;Torvisienenkatu;2
+8590;Metsäsepänpuisto;2
+8591;Metsäsepänpuisto;2
+8596;Koppelonkatu;2
+8597;Koppelonkatu;2
+8598;Harjuniitty;2
+8600;Nokian terveyskeskus;2
+8601;Nokian terveyskeskus;2
+8602;Pirkkalaistori;2
+8603;Pirkkalaistori;2
+8604;Kumitehdas;2
+8605;Kumitehdas;2
+8606;Orelinkatu;2
+8607;Orelinkatu;2
+8608;Nuijamiestentie;2
+8609;Nuijamiestentie;2
+8610;Viholanraitti;2
+8611;Viholanraitti;2
+8612;Eden;2
+8613;Eden;2
+8614;Vihola;2
+8615;Vihola;2
+8616;Päivärinteentie;2
+8617;Päivärinteentie;2
+8618;Räikäntie;2
+8619;Räikäntie;2
+8620;Piilenmäenkatu;2
+8621;Piilenmäenkatu;2
+8622;Pähkinämäentie;2
+8623;Pähkinämäentie;2
+8624;Keho;2
+8625;Keho;2
+8626;Menkala;2
+8627;Menkala;2
+8628;Ilveskatu;2
+8629;Ilveskatu;2
+8630;Koskenmäen koulu;2
+8631;Koskenmäen koulu;2
+8632;Kenttäkatu;2
+8633;Kenttäkatu;2
+8634;Ruskeepää;2
+8635;Ruskeepää;2
+8636;Kalhunkatu;2
+8637;Kalhunkatu;2
+8638;Ristiveräjä;2
+8639;Ristiveräjä;2
+8640;Nikkarinkatu;2
+8641;Nikkarinkatu;2
+8642;Ahteensivu;2
+8643;Ahteensivu;2
+8644;Tiesenmäki;2
+8645;Tiesenmäki;2
+8647;Viholan ramppi;2
+8650;Suonsivuntie;2
+8651;Suonsivuntie;2
+8652;Rälssikatu;2
+8653;Rälssikatu;2
+8654;Tupsunluhta;2
+8655;Tupsunluhta;2
+8656;Tervasuo;2
+8657;Tervasuo;2
+8658;Sammalisto;2
+8660;Emäkosken koulu;2
+8661;Emäkosken koulu;2
+8662;Poutunpuisto;2
+8664;Kankaantaan koulu Ilkantie;2
+8708;Pitkäniementie;1
+8709;Pitkäniementie;1
+8710;Pitkäniemi;1
+8714;Pitkäniemen päiväkoti;1
+8715;Pitkäniemen päiväkoti;1
+8720;Kaarikatu;2
+8721;Kaarikatu;2
+8722;Raunionkatu;2
+8723;Raunionkatu;2
+8725;Kankaantaka;2
+8726;Vihnuskoti;2
+8727;Vihnuskoti;2
+8750;Kalkku th;1
+8751;Kalkku th;1
+8752;Pitkäniemi th;2
+8753;Pitkäniemi th;1
+8754;Kappelinmäki;2
+8755;Kappelinmäki;2
+8756;Sarpatti;2
+8757;Sarpatti;2
+8800;Muuntajakuja;2
+8801;Muuntajakuja;2
+8802;Sammalistontie;2
+8803;Sammalistontie;2
+8804;Rajatie;2
+8805;Rajatie;2
+8806;Naulonlahdentie;2
+8807;Naulonlahdentie;2
+8808;Ketteenniementie;2
+8809;Ketteenniementie;2
+8810;Loukko;2
+8811;Loukko;2
+8812;Murtoonvuori;2
+8813;Murtoonvuori;2
+8814;Sorva;2
+8815;Sorva;2
+8816;Metsä-Tuomaalantie;2
+8817;Metsä-Tuomaalantie;2
+8818;Susitaipale;2
+8819;Susitaipale;2
+8820;Lamminperä;2
+8821;Lamminperä;2
+8822;Yli-Marttila;3
+8823;Yli-Marttila;3
+8824;Ali-Marttila;3
+8825;Ali-Marttila;3
+8826;Naskalintie;3
+8827;Naskalintie;3
+8828;Tolppa;3
+8829;Tolppa;3
+8831;Tottijärvi;3
+8832;Tottijärvi;3
+8840;Paloasema (8840);S
+8841;Paloasema (8841);S
+8842;Korpiniitty (8842);S
+8843;Korpiniitty (8843);S
+8844;Ranta-Koivisto (8844);S
+8845;Ranta-Koivisto (8845);S
+8846;Suntinmäenkuja (8846);S
+8847;Suntinmäenkuja (8847);S
+8848;Liuksialan koulu (8848);S
+8849;Liuksialan koulu (8849);S
+8850;Uotila (8850);S
+8851;Uotila (8851);S
+8852;Utukanpolku (8852);S
+8853;Utukanpolku (8853);S
+8854;Pajutila (8854);S
+8855;Pajutila (8855);S
+8856;Ketunpolku (8856);S
+8857;Ketunpolku (8857);S
+8858;Saarenmaantie (8858);S
+8859;Saarenmaantie (8859);S
+8860;Ruishuhta (8860);S
+8861;Ruishuhta (8861);S
+8862;Ruokoniityntie (8862);S
+8863;Ruokoniityntie (8863);S
+8866;Toikkola (8866);S
+8867;Toikkola (8867);S
+8868;Tähkätie (8868);S
+8869;Tähkätie (8869);S
+8870;Leru (8870);S
+8871;Leru (8871);S
+8872;Liuksiala (8872);S
+8873;Liuksiala (8873);S
+8874;Koivikko (8874);S
+8875;Koivikko (8875);S
+8876;Ahulisto (8876);S
+8877;Ahulisto (8877);S
+8878;Varsamäentie (8878);S
+8879;Varsamäentie (8879);S
+8880;Vedenottamontie (8880);S
+8881;Vedenottamontie (8881);S
+8882;Suojoki (8882);S
+8883;Suojoki (8883);S
+8884;Antinkärki (8884);S
+8885;Antinkärki (8885);S
+8886;Kaarina Maununtyttären tie 617 (8886);S
+8887;Kaarina Maununtyttären tie 617 (8887);S
+8888;Ohtola (8888);S
+8889;Ohtola (8889);S
+8890;Klemola (8890);S
+8891;Klemola (8891);S
+8892;Killinmäki (8892);S
+8893;Killinmäki (8893);S
+8894;Kurunkyläntie (8894);S
+8895;Kurunkyläntie (8895);S
+8896;Savo (8896);S
+8897;Savo (8897);S
+8898;Pääskyniementie (8898);S
+8899;Pääskyniementie (8899);S
+8900;Haapaniemi (8900);S
+8901;Haapaniemi (8901);S
+8902;Mikkolantie (8902);S
+8903;Mikkolantie (8903);S
+8904;Mustalahdentie (8904);S
+8905;Mustalahdentie (8905);S
+8906;Pohjanperä (8906);S
+8907;Pohjanperä (8907);S
+8908;Rantalantie (8908);S
+8909;Rantalantie (8909);S
+8910;Papinsaarentie (8910);S
+8911;Papinsaarentie (8911);S
+8912;Murtoniementie (8912);S
+8913;Murtoniementie (8913);S
+8914;Alhontie (8914);S
+8915;Alhontie (8915);S
+8916;Kokojärvi (8916);S
+8917;Kokojärvi (8917);S
+8918;Kokonniemi (8918);S
+8919;Kokonniemi (8919);S
+8920;Kuohenmaa (8920);S
+8921;Kuohenmaa (8921);S
+8922;Metsäpellontie (8922);S
+8923;Metsäpellontie (8923);S
+8924;Viiritie (8924);S
+8925;Viiritie (8925);S
+8926;Kaarina Maununtyttären tie1820 (8926);S
+8927;Kaarina Maununtyttären tie1820 (8927);S
+8928;Ojalantie (8928);S
+8929;Ojalantie (8929);S
+8930;Valkeakosken raja (8930);S
+8931;Valkeakosken raja (8931);S
+8940;Kangasalan ammattiopisto (8940);2
+10000;Valkeakosken linja-autoasema (10000);S
+10010;HAMK (Valkeakoski) (10010);S
+10011;HAMK (Valkeakoski) (10011);S
